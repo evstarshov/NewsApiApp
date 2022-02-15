@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  NewsFeed
+//  NewsApiApp
 //
 //  Created by Евгений Старшов on 15.02.2022.
 //
